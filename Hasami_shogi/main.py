@@ -71,3 +71,5 @@ def main():
     pygame.quit()
 
 main()
+
+# putting this here just for testing purposes
